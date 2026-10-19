@@ -1,0 +1,5 @@
+# 自检脚本与产物（不属于插件包）
+_selfcheck.py
+__pycache__/
+*.pyc
+node_modules/

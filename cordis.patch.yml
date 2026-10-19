@@ -1,0 +1,4 @@
+# Minimal DSH bundle: ships SKILL.md files only, mounts no loader plugins.
+# Skills are auto-discovered from the skills/ directory when this bundle is
+# added to dsh.profile.bundles (via the desktop Plugin Hub).
+[]
